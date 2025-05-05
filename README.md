@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tejedamiguel6-mcp-server-contenful-badge.png)](https://mseep.ai/app/tejedamiguel6-mcp-server-contenful)
+
 # Contentful MCP Server
 
 A Model Context Protocol (MCP) server that allows Claude to interact with Contentful CMS data directly. This integration enables Claude to fetch content types and entries from your Contentful space.
