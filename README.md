@@ -3,6 +3,7 @@
 # Contentful MCP Server
 
 A Model Context Protocol (MCP) server that allows Claude to interact with Contentful CMS data directly. This integration enables Claude to fetch content types and entries from your Contentful space.
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/5fafc920-b065-43ab-946a-bbc57aadebe0)
 
 ## Features
 
